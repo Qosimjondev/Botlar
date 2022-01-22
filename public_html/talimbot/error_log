@@ -1,0 +1,4 @@
+[31-Dec-2021 09:10:42 Asia/Tashkent] PHP Warning:  file_get_contents(files/lang.txt): failed to open stream: No such file or directory in /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/User.php on line 24
+[31-Dec-2021 09:10:42 Asia/Tashkent] PHP Warning:  file_get_contents(files/page.txt): failed to open stream: No such file or directory in /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/User.php on line 32
+[12-Jan-2022 09:46:25 Asia/Tashkent] PHP Warning:  file_get_contents(files/lang.txt): failed to open stream: No such file or directory in /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/User.php on line 24
+[12-Jan-2022 09:46:25 Asia/Tashkent] PHP Warning:  file_get_contents(files/page.txt): failed to open stream: No such file or directory in /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/User.php on line 32

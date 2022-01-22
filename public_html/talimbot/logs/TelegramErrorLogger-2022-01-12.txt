@@ -1,0 +1,192 @@
+============[Date]============
+[ 2022-01-12 09:45:36  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		401
+description:		Unauthorized
+=========[Sent Data]==========
+[ref]
+ref.update_id= 901479879
+ref.message.message_id= 713
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1641962242
+ref.message.text= Yozyovon
+
+
+[ref]
+ref.text= O'quv markazni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[{"text":"Kelajak Akademiya","request_contact":false,"request_location":false},{"text":"Royal Education","request_contact":false,"request_location":false}],[{"text":"Zakovat","request_contact":false,"request_location":false}],[{"text":"\u2b05\ufe0f Ortga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifa","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/functions.php(97): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/kelajak.php(37): showCenters()
+#5 {main}
+
+============[Date]============
+[ 2022-01-12 09:45:37  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		401
+description:		Unauthorized
+=========[Sent Data]==========
+[ref]
+ref.update_id= 901479880
+ref.message.message_id= 714
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1641962246
+ref.message.text= Tilni o'zgartirish
+
+
+[ref]
+ref.text= 👇🏼Iltimos tugmalardan birini tanlang👇🏼
+
+👇🏼Пожалуйста, выберите одну из кнопок👇🏼
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/functions.php(26): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/kelajak.php(58): showError()
+#5 {main}
+
+============[Date]============
+[ 2022-01-12 09:45:51  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		401
+description:		Unauthorized
+=========[Sent Data]==========
+[ref]
+ref.update_id= 901479881
+ref.message.message_id= 715
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1641962751
+ref.message.text= Tilni o'zgartirish
+
+
+[ref]
+ref.text= 👇🏼Iltimos tugmalardan birini tanlang👇🏼
+
+👇🏼Пожалуйста, выберите одну из кнопок👇🏼
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/functions.php(26): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/kelajak.php(58): showError()
+#5 {main}
+
+============[Date]============
+[ 2022-01-12 09:45:56  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		401
+description:		Unauthorized
+=========[Sent Data]==========
+[ref]
+ref.update_id= 901479882
+ref.message.message_id= 716
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1641962756
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 👇🏼Iltimos tilni tanlang👇🏼
+
+👇🏼Пожалуйста, выберите язык👇🏼
+ref.reply_markup= {"keyboard":[[{"text":"O'zbek tili \ud83c\uddfa\ud83c\uddff","request_contact":false,"request_location":false},{"text":"P\u0443\u0441\u0441\u043a\u0438\u0439 \ud83c\uddf7\ud83c\uddfa","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/functions.php(46): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/kelajak.php(13): showMain()
+#5 {main}
+
+============[Date]============
+[ 2022-01-12 09:47:05  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		401
+description:		Unauthorized
+=========[Sent Data]==========
+[ref]
+ref.update_id= 901479883
+ref.message.message_id= 717
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1641962824
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 👇🏼Iltimos tilni tanlang👇🏼
+
+👇🏼Пожалуйста, выберите язык👇🏼
+ref.reply_markup= {"keyboard":[[{"text":"O'zbek tili \ud83c\uddfa\ud83c\uddff","request_contact":false,"request_location":false},{"text":"P\u0443\u0441\u0441\u043a\u0438\u0439 \ud83c\uddf7\ud83c\uddfa","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/functions.php(46): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/talimbot/kelajak.php(13): showMain()
+#5 {main}
+

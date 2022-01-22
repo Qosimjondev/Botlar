@@ -1,0 +1,495 @@
+============[Date]============
+[ 2022-01-01 07:28:36  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542369
+ref.callback_query.id= 3578308854218763083
+ref.callback_query.from.id= 833139953
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= QosimjonSobirov
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 923
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 833139953
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= QosimjonSobirov
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641004112
+ref.callback_query.message.text= Выберите область 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Фергана
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Андижан
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Наманган
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Ташкент
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Сырдарья
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Джизак
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Навои
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Самарканд
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Бухара
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Сурхондарьинская область
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Кашкадарьинская область
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Хорезм
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Нукус
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Маргилан
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -8176859403827536653
+ref.callback_query.data= Fargona
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0415\u0436\u0435\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u043e","callback_data":"\u0415\u0436\u0435\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u043e"},{"text":"\u0415\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u043e","callback_data":"\u0415\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u043e"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 08:49:01  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542376
+ref.callback_query.id= 7491961914098913971
+ref.callback_query.from.id= 1744358314
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Мохинур
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 939
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 1744358314
+ref.callback_query.message.chat.first_name= Мохинур
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641008936
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= 2105673367760960590
+ref.callback_query.data= Margilan
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 08:51:29  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542378
+ref.callback_query.id= 4079956013618133555
+ref.callback_query.from.id= 949938784
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= qosimjondev
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 943
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 949938784
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= qosimjondev
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641009085
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -929663137151487565
+ref.callback_query.data= Fargona
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 08:52:05  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542381
+ref.callback_query.id= 4079956011206080598
+ref.callback_query.from.id= 949938784
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= qosimjondev
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 948
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 949938784
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= qosimjondev
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641009122
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -929663137151487565
+ref.callback_query.data= Fargona
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 08:59:29  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542386
+ref.callback_query.id= 3578308851453145857
+ref.callback_query.from.id= 833139953
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= QosimjonSobirov
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 960
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 833139953
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= QosimjonSobirov
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641009565
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -8176859403827536653
+ref.callback_query.data= Fargona
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 09:00:00  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542390
+ref.callback_query.id= 3578308852655993970
+ref.callback_query.from.id= 833139953
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= QosimjonSobirov
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 969
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 833139953
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= QosimjonSobirov
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641009597
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -8176859403827536653
+ref.callback_query.data= Andijon
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+
+============[Date]============
+[ 2022-01-01 09:00:57  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542400
+ref.callback_query.id= 3578308852373670955
+ref.callback_query.from.id= 833139953
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Qosimjon
+ref.callback_query.from.username= QosimjonSobirov
+ref.callback_query.from.language_code= uz
+ref.callback_query.message.message_id= 993
+ref.callback_query.message.from.id= 5093425637
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Ob-havo
+ref.callback_query.message.from.username= obhavo13bot
+ref.callback_query.message.chat.id= 833139953
+ref.callback_query.message.chat.first_name= Qosimjon
+ref.callback_query.message.chat.username= QosimjonSobirov
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1641009653
+ref.callback_query.message.text= Hududni tanlang 👇🏼
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Farg'ona
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= Fargona
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= Andijon
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= Namangan
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.text= Toshkent
+ref.callback_query.message.reply_markup.inline_keyboard.1.1.callback_data= Tashkent
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= Sirdaryo
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.text= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.2.1.callback_data= Jizzax
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= Navoiy
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.text= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.3.1.callback_data= Samarqand
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= Buxoro
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.text= Surxondaryo
+ref.callback_query.message.reply_markup.inline_keyboard.4.1.callback_data= Tirmiz
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.text= Qashqadaryo
+ref.callback_query.message.reply_markup.inline_keyboard.5.0.callback_data= Qarshi
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.text= Xorazm
+ref.callback_query.message.reply_markup.inline_keyboard.5.1.callback_data= Xiva
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.text= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.0.callback_data= Nukus
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.text= Marg'ilon
+ref.callback_query.message.reply_markup.inline_keyboard.6.1.callback_data= Margilan
+ref.callback_query.chat_instance= -8176859403827536653
+ref.callback_query.data= Margilan
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"inline_keyboard":[[{"text":"Haftalik","callback_data":"Haftalik"},{"text":"Oylik","callback_data":"Oylik"}]]}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/pageFunctions.php(154): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(34): showDays()
+#5 {main}
+

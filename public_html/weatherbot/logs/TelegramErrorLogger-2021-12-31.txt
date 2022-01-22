@@ -1,0 +1,510 @@
+============[Date]============
+[ 2021-12-31 10:48:39  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: KeyboardButton must be a String or an Object
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530541990
+ref.message.message_id= 67
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640929719
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= Hududni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[[{"text":"Farg'ona","request_contact":false,"request_location":false}],[{"text":"Andijon","request_contact":false,"request_location":false}]],[[{"text":"Namangan","request_contact":false,"request_location":false}]],[{"text":"Tilni o'zgartirish","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(92): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(104): showDistrict()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 10:50:41  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: KeyboardButton must be a String or an Object
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530541994
+ref.message.message_id= 76
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640929841
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= Hududni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[[{"text":"Farg'ona","request_contact":false,"request_location":false}],[{"text":"Andijon","request_contact":false,"request_location":false}]],[[{"text":"Namangan","request_contact":false,"request_location":false}],[{"text":"Tilni o'zgartirish","request_contact":false,"request_location":false}]]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(91): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(103): showDistrict()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 11:23:36  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: KeyboardButton must be a String or an Object
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530541998
+ref.message.message_id= 85
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640931816
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= Hududni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[[{"text":"Farg'ona","request_contact":false,"request_location":false}],[{"text":"Andijon","request_contact":false,"request_location":false}]],[[{"text":"Namangan","request_contact":false,"request_location":false}],[{"text":"Tilni o'zgartirish","request_contact":false,"request_location":false}]]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(101): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(113): showDistrict()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 11:24:29  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: KeyboardButton must be a String or an Object
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542000
+ref.message.message_id= 89
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640931869
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= Hududni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[[{"text":"Farg'ona","request_contact":false,"request_location":false}],[{"text":"Andijon","request_contact":false,"request_location":false}]],[[{"text":"Namangan","request_contact":false,"request_location":false}]]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(101): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(113): showDistrict()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 11:27:54  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: KeyboardButton must be a String or an Object
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542002
+ref.message.message_id= 93
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640932074
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= Hududni tanlang 👇🏼
+ref.reply_markup= {"keyboard":[[{"text":"Farg'ona","request_contact":false,"request_location":false},{"text":"Andijon","request_contact":false,"request_location":false}],[{"text":"Namangan","request_contact":false,"request_location":false},[{"text":"Tilni o'zgartirish","request_contact":false,"request_location":false}]]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(91): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(103): showDistrict()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 14:28:32  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542125
+ref.message.message_id= 368
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640942911
+ref.message.reply_to_message.message_id= 367
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640942904
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.629543
+ref.message.location.longitude= 71.755663
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(135): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(172): showMyLocation()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:31:16  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542154
+ref.message.message_id= 433
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640946675
+ref.message.reply_to_message.message_id= 432
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640946667
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.637948
+ref.message.location.longitude= 71.749101
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(161): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(199): showMyLocation()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:35:11  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542157
+ref.message.message_id= 440
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640946910
+ref.message.reply_to_message.message_id= 439
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640946901
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.629579
+ref.message.location.longitude= 71.755616
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(161): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(207): showMyLocation()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:38:53  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542162
+ref.message.message_id= 449
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640947132
+ref.message.reply_to_message.message_id= 448
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640947124
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.637948
+ref.message.location.longitude= 71.749101
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(161): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(207): showMyLocation()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:41:47  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542167
+ref.message.message_id= 456
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640947305
+ref.message.reply_to_message.message_id= 455
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640947298
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.637948
+ref.message.location.longitude= 71.749101
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(144): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(210): CurrentButtons()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:42:27  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542170
+ref.message.message_id= 463
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= ru
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640947347
+ref.message.reply_to_message.message_id= 462
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640947340
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.637948
+ref.message.location.longitude= 71.749101
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(144): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(210): CurrentButtons()
+#5 {main}
+
+============[Date]============
+[ 2021-12-31 15:48:00  Asia/Tashkent ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 530542176
+ref.message.message_id= 476
+ref.message.from.id= 949938784
+ref.message.from.is_bot= false
+ref.message.from.first_name= Qosimjon
+ref.message.from.username= qosimjondev
+ref.message.from.language_code= uz
+ref.message.chat.id= 949938784
+ref.message.chat.first_name= Qosimjon
+ref.message.chat.username= qosimjondev
+ref.message.chat.type= private
+ref.message.date= 1640947680
+ref.message.reply_to_message.message_id= 475
+ref.message.reply_to_message.from.id= 5093425637
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= Ob-havo
+ref.message.reply_to_message.from.username= obhavo13bot
+ref.message.reply_to_message.chat.id= 949938784
+ref.message.reply_to_message.chat.first_name= Qosimjon
+ref.message.reply_to_message.chat.username= qosimjondev
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1640947673
+ref.message.reply_to_message.text= Hududni tanlang 👇🏼
+ref.message.location.latitude= 40.637948
+ref.message.location.longitude= 71.749101
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\u2b05\ufe0fOrtga","request_contact":false,"request_location":false},{"text":"\ud83c\udfe0 Bosh Sahifaga","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log(Array, Array)
+#1 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/kelajak4/bot.kelajak2230.uz/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(146): Telegram->sendMessage(Array)
+#4 /home/kelajak4/bot.kelajak2230.uz/public_html/weatherbot/weather.php(213): CurrentButtons()
+#5 {main}
+
